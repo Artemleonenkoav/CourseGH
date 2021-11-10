@@ -5,7 +5,7 @@ public class GH {
     public static void main(String[] args) {
         for (int i = 0; i < 2; i++) {
             System.out.println(i);
-            System.out.println(LocalDate.now());
+            System.out.println(LocalDateTime.now());
 
 
         }
